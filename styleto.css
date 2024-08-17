@@ -1,0 +1,11 @@
+.checked {
+    text-decoration: line-through;
+  }
+body {
+background: #d7c7c7;
+  }
+fieldset{
+font-style: normal;
+color: rgb(222, 102, 102);
+background-color: #b62a2a;
+}
